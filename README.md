@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**Kudoo39/Kudoo39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate fourth-year student and aspiring full-stack developer. I love coding, problem-solving, and building creative solutions with technology.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front-end: HTML, CSS, JavaScript / TypeScript, React, Bootstrap, Chakra UI
+- Back-end: Node.js, Express.js
+- Database: MongoDB
+- Version Control: Git, GitHub
+
+## 📫 Let's Connect
+
+- Let's connect and explore opportunities to collaborate! 😉
+- Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/khang-nguyen3902)!
+
+Thanks for visiting my profile! Let's code together and build amazing things. 💻🚀
