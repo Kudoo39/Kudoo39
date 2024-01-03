@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate fourth-year student and aspiring 
 ## 🔧 Technologies & Tools
 
 - Front-end: HTML, CSS, JavaScript / TypeScript, React, Bootstrap, Chakra UI, Material UI
-- Back-end: Node.js, Express.js
+- Back-end: Node.js, Express.js, Mongoose
 - Database: MongoDB
 - Version Control: Git
 
