@@ -13,5 +13,6 @@ Welcome to my GitHub profile! I'm a passionate fourth-year student and aspiring 
 
 - Let's connect and explore opportunities to collaborate! 😉
 - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/khang-nguyen3902)!
+- My [Portfolio](https://kudoo39.github.io/react-portfolio)!
 
 Thanks for visiting my profile! Let's code together and build amazing things. 💻🚀
