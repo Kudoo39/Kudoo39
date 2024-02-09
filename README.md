@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm a passionate fourth-year student and aspiring 
 * [Portfolio](https://github.com/Kudoo39/react-portfolio) - My portfolio website using React, CSS and JavaScript
 * [Calculator](https://github.com/Kudoo39?tab=repositories) - A simple calculator project
 * [Weather App](https://github.com/Kudoo39/Weather-app) - A simple weather app
+* [Breweries App](https://github.com/Kudoo39/fs17-week3-React-public) - A dynamic web application for exploring breweries
 * [Trello App](https://github.com/Kudoo39/trello-project) - Trello Clone (still in development!)
 
 Thanks for visiting my profile! Let's code together and build amazing things. 💻🚀
