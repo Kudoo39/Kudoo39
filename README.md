@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate fourth-year student and aspiring 
 
 ## 🔧 Technologies & Tools
 
-- Front-end: HTML, CSS, SASS, JavaScript / TypeScript, React, Bootstrap, Chakra UI, Material UI
+- Front-end: HTML, CSS, SASS, JavaScript / TypeScript, React, Bootstrap, Chakra UI, Material UI, TailwindCSS
 - Back-end: Node.js, Express.js, Mongoose
 - Database: MongoDB
 - Version Control: Git
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate fourth-year student and aspiring 
 * [Node Authentication](https://github.com/Kudoo39/node-authentication) - A simple application that provides user registration, login, and authentication functionality
 * [Simple Reddit Clone](https://github.com/Kudoo39/react-redux-project) - A simple Reddit clone built
 * [Portfolio](https://github.com/Kudoo39/react-portfolio) - My portfolio website using React, CSS and JavaScript
-* [Calculator](https://github.com/Kudoo39?tab=repositories) - A simple calculator project
+* [Calculator](https://github.com/Kudoo39/calculator-app) - A simple calculator project
 * [Weather App](https://github.com/Kudoo39/Weather-app) - A simple weather app
 * [Breweries App](https://github.com/Kudoo39/fs17-week3-React-public) - A dynamic web application for exploring breweries
 * [Trello App](https://github.com/Kudoo39/trello-project) - Trello Clone (still in development!)
