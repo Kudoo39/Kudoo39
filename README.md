@@ -17,13 +17,14 @@ Welcome to my GitHub profile! I'm a passionate fourth-year student and aspiring 
 - My [Portfolio](https://kudoo39.github.io/react-portfolio)!
 
 ## ✨ Project Showcase
-* [Restaurant App](https://github.com/Kudoo39/restaurant-app) - Restaurant App for Saigon Sandwich Bakery
-* [Serenity Space](https://github.com/Kudoo39/serenity-space) - The project provides a personalized and calming working space
-* [Explore Game](https://github.com/Kudoo39/clone-game-website) - Fetch and display games from RAWG API
+* [Trending Shop](https://github.com/Kudoo39/trending-shop) - An e-commerce platform project built with React, TypeScript, and Material UI
+* [Restaurant App](https://github.com/Kudoo39/restaurant-app) - A restaurant app for Saigon Sandwich Bakery
+* [Serenity Space](https://github.com/Kudoo39/serenity-space) - This project provides a personalized and calming working space
+* [Explore Game](https://github.com/Kudoo39/clone-game-website) - Fetches and displays games from RAWG API
 * [Coffee Page](https://github.com/Kudoo39/coffee-page) - A simple coffee page
-* [Todo-list App](https://github.com/Kudoo39/todo-list-app) - A simple todo-list app
-* [Node Authentication](https://github.com/Kudoo39/node-authentication) - A simple application that provides user registration, login, and authentication functionality
-* [Simple Reddit Clone](https://github.com/Kudoo39/react-redux-project) - A simple Reddit clone built
+* [Todo-list App](https://github.com/Kudoo39/todo-list-app) - A simple to-do list app
+* [Node Authentication](https://github.com/Kudoo39/node-authentication) - An application that provides user registration, login, and authentication functionality
+* [Simple Reddit Clone](https://github.com/Kudoo39/react-redux-project) - A simple Reddit clone
 * [Portfolio](https://github.com/Kudoo39/react-portfolio) - My portfolio website using React, CSS and JavaScript
 * [Calculator](https://github.com/Kudoo39/calculator-app) - A simple calculator project
 * [Weather App](https://github.com/Kudoo39/Weather-app) - A simple weather app
