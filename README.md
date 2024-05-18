@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate fourth-year student and aspiring 
 
 - Front-end: HTML, CSS, SASS, JavaScript / TypeScript, React, Redux Toolkit, Chakra UI, Material UI, TailwindCSS
 - Back-end: Node.js, Express.js, Mongoose
-- Database: MongoDB
+- Database: MongoDB, PostgresSQL
 - Version Control: Git
 
 ## 📫 Let's Connect
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate fourth-year student and aspiring 
 
 ## ✨ Project Showcase
 * [Trending Shop](https://github.com/Kudoo39/trending-shop) - An e-commerce platform project built with React, TypeScript, and Material UI
-* [Trending API](https://github.com/Kudoo39/trending-api) - A RESTful API developed by teamwork using Node.js, Express.js, Mongoose and TypeScript.
+* [Trending API](https://github.com/Kudoo39/trending-api) - A RESTful API developed by teamwork using Node.js, Express.js, Mongoose and TypeScript
 * [Restaurant App](https://github.com/Kudoo39/restaurant-app) - A restaurant app for Saigon Sandwich Bakery
 * [Serenity Space](https://github.com/Kudoo39/serenity-space) - This project provides a personalized and calming working space
 * [Explore Game](https://github.com/Kudoo39/clone-game-website) - Fetches and displays games from RAWG API
