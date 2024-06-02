@@ -1,22 +1,24 @@
 # Hello there 👋
 
-Welcome to my GitHub profile! I'm a passionate fourth-year student and aspiring full-stack developer. I love coding, problem-solving, and building creative solutions with technology.
+I am recently graduated with a Bachelor of Engineering in Information Technology from XAMK, a passionate and aspiring full-stack developer. I love coding, problem-solving, and building creative solutions with technology.
 
 ## 🔧 Technologies & Tools
 
 - Front-end: HTML, CSS, SASS, JavaScript / TypeScript, React, Redux Toolkit, Chakra UI, Material UI, TailwindCSS
-- Back-end: Node.js, Express.js, Mongoose
+- Back-end: Node.js, Express.js, Mongoose, Java
 - Database: MongoDB, PostgresSQL
 - Version Control: Git
+- Others: Jest, Docker
 
 ## 📫 Let's Connect
 
 - Let's connect and explore opportunities to collaborate! 😉
 - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/khang-nguyen3902)!
-- Know about my experiences at [Khang's CV](https://drive.google.com/file/d/1ReobltSY9ZkfK2YhekFwZkyYlEB05cO3/view?usp=sharing)!
+- Know about my experiences at [Khang's CV](https://drive.google.com/file/d/1vOi_feP7GdQ04_AUx3Tfnq_17Vj_lHt0/view?usp=drive_link)!
 - My [Portfolio](https://kudoo39.github.io/react-portfolio)!
 
 ## ✨ Project Showcase
+* [The Trendy Store](https://github.com/Kudoo39/the-trendy-store) - A full-stack e-commerce platform built with React, TypeScript, Material UI, Node.js, Express.js, and MongoDB (formerly Trending Shop)
 * [Trending Shop](https://github.com/Kudoo39/trending-shop) - An e-commerce platform project built with React, TypeScript, and Material UI
 * [Trending API](https://github.com/Kudoo39/trending-api) - A RESTful API developed by teamwork using Node.js, Express.js, Mongoose and TypeScript
 * [Restaurant App](https://github.com/Kudoo39/restaurant-app) - A restaurant app for Saigon Sandwich Bakery
