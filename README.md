@@ -24,6 +24,7 @@ I am recently graduated with a Bachelor of Engineering in Information Technology
 * [Trello App](https://github.com/Kudoo39/trello-project) - Trello Clone built with React, JavaScript, Material UI, Node.js, Express.js, and MongoDB
 * [Restaurant App](https://github.com/Kudoo39/restaurant-app) - A restaurant app for Saigon Sandwich Bakery
 * [Serenity Space](https://github.com/Kudoo39/serenity-space) - This project provides a personalized and calming working space
+* [Inventory Management System Micro-service](https://github.com/Kudoo39/integrify-java-inventory-service) - A Spring Boot application for inventory management.
 * [Explore Game](https://github.com/Kudoo39/clone-game-website) - Fetches and displays games from RAWG API
 * [Coffee Page](https://github.com/Kudoo39/coffee-page) - A simple coffee page
 * [Todo-list App](https://github.com/Kudoo39/todo-list-app) - A simple to-do list app
