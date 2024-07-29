@@ -5,7 +5,7 @@ I am recently graduated with a Bachelor of Engineering in Information Technology
 ## 🔧 Technologies & Tools
 
 - Front-end: HTML, CSS, SASS, JavaScript / TypeScript, React, Redux Toolkit, Chakra UI, Material UI, TailwindCSS
-- Back-end: Node.js, Express.js, Mongoose, Java
+- Back-end: Node.js, Express.js, Mongoose, Java, Spring Boot
 - Database: MongoDB, PostgresSQL
 - Version Control: Git
 - Others: Jest, Docker
@@ -19,8 +19,9 @@ I am recently graduated with a Bachelor of Engineering in Information Technology
 
 ## ✨ Project Showcase
 * [The Trendy Store](https://github.com/Kudoo39/the-trendy-store) - A full-stack e-commerce platform built with React, TypeScript, Material UI, Node.js, Express.js, and MongoDB (formerly Trending Shop)
-* [Trending Shop](https://github.com/Kudoo39/trending-shop) - An e-commerce platform project built with React, TypeScript, and Material UI
-* [Trending API](https://github.com/Kudoo39/trending-api) - A RESTful API developed by teamwork using Node.js, Express.js, Mongoose and TypeScript
+* [The Trendy Store API](https://github.com/Kudoo39/trendy-store-api) - A RESTful API developed by teamwork using Node.js, Express.js, Mongoose and TypeScript
+* [Trending Shop](https://github.com/Kudoo39/trending-shop) - An e-commerce platform built with React, TypeScript, and Material UI using the public Platzi Fake Store API for data
+* [Trello App](https://github.com/Kudoo39/trello-project) - Trello Clone built with React, JavaScript, Material UI, Node.js, Express.js, and MongoDB
 * [Restaurant App](https://github.com/Kudoo39/restaurant-app) - A restaurant app for Saigon Sandwich Bakery
 * [Serenity Space](https://github.com/Kudoo39/serenity-space) - This project provides a personalized and calming working space
 * [Explore Game](https://github.com/Kudoo39/clone-game-website) - Fetches and displays games from RAWG API
@@ -32,7 +33,6 @@ I am recently graduated with a Bachelor of Engineering in Information Technology
 * [Calculator](https://github.com/Kudoo39/calculator-app) - A simple calculator project
 * [Weather App](https://github.com/Kudoo39/Weather-app) - A simple weather app
 * [Breweries App](https://github.com/Kudoo39/fs17-week3-React-public) - A dynamic web application for exploring breweries
-* [Trello App](https://github.com/Kudoo39/trello-project) - Trello Clone (still in development!)
 
 Thanks for visiting my profile! Let's code together and build amazing things. 💻🚀
 
