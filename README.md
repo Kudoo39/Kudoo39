@@ -14,7 +14,7 @@ I am recently graduated with a Bachelor of Engineering in Information Technology
 
 - Let's connect and explore opportunities to collaborate! 😉
 - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/khang-nguyen3902)!
-- Know about my experiences at [Khang's CV](https://drive.google.com/file/d/1vOi_feP7GdQ04_AUx3Tfnq_17Vj_lHt0/view?usp=drive_link)!
+- Know about my experiences at [Khang's CV](https://drive.google.com/file/d/1JqWASZO85D1YlCz65oAW57ECoo-sozmf/view?usp=sharing)!
 - My [Portfolio](https://kudoo39.github.io/react-portfolio)!
 
 ## ✨ Project Showcase
