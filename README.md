@@ -1,40 +1,28 @@
-# Hello there 👋
+# Hey there 👋
 
-I am recently graduated with a Bachelor of Engineering in Information Technology from XAMK, a passionate and aspiring full-stack developer. I love coding, problem-solving, and building creative solutions with technology.
+I'm a software developer based in Finland, working on full-stack web and mobile applications, as well as open-source projects.
 
-## 🔧 Technologies & Tools
+Currently, I contribute to **Since AI's** web platform and official website, maintain **AI Shipcheck**, and work as a Founding Engineer at **HEi BUDDii**.
 
-- Front-end: HTML, CSS, SASS, JavaScript / TypeScript, React, Redux Toolkit, Chakra UI, Material UI, TailwindCSS
-- Back-end: Node.js, Express.js, Mongoose, Java, Spring Boot
-- Database: MongoDB, PostgresSQL
-- Version Control: Git
-- Others: Jest, Docker
+## 🛠️ Tech Stack
 
-## 📫 Let's Connect
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- **Backend & Databases:** Node.js, Express.js, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Jest, Vitest, GitHub Actions, AWS, Cloudflare
 
-- Let's connect and explore opportunities to collaborate! 😉
-- Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/khang-nguyen3902)!
-- Know about my experiences at [Khang's CV](https://drive.google.com/file/d/1ZYplo_ujHitg2U0k8p09mfHgkwpQL5bB/view?usp=sharing)!
-- My [Portfolio](https://kudoo39.github.io/react-portfolio)!
+## 🚀 Selected Projects
 
-## ✨ Project Showcase
-* [The Trendy Store](https://github.com/Kudoo39/the-trendy-store) - A full-stack e-commerce platform built with React, TypeScript, Material UI, Node.js, Express.js, and MongoDB (formerly Trending Shop)
-* [The Trendy Store API](https://github.com/Kudoo39/trendy-store-api) - A RESTful API developed by teamwork using Node.js, Express.js, Mongoose and TypeScript
-* [Trending Shop](https://github.com/Kudoo39/trending-shop) - An e-commerce platform built with React, TypeScript, and Material UI using the public Platzi Fake Store API for data
-* [Trello App](https://github.com/Kudoo39/trello-project) - Trello Clone built with React, JavaScript, Material UI, Node.js, Express.js, and MongoDB
-* [Restaurant App](https://github.com/Kudoo39/restaurant-app) - A restaurant app for Saigon Sandwich Bakery
-* [Serenity Space](https://github.com/Kudoo39/serenity-space) - This project provides a personalized and calming working space
-* [Inventory Management System Micro-service](https://github.com/Kudoo39/integrify-java-inventory-service) - A Spring Boot application for inventory management.
-* [Explore Game](https://github.com/Kudoo39/clone-game-website) - Fetches and displays games from RAWG API
-* [Coffee Page](https://github.com/Kudoo39/coffee-page) - A simple coffee page
-* [Todo-list App](https://github.com/Kudoo39/todo-list-app) - A simple to-do list app
-* [Node Authentication](https://github.com/Kudoo39/node-authentication) - An application that provides user registration, login, and authentication functionality
-* [Simple Reddit Clone](https://github.com/Kudoo39/react-redux-project) - A simple Reddit clone
-* [Portfolio](https://github.com/Kudoo39/react-portfolio) - My portfolio website using React, CSS and JavaScript
-* [Calculator](https://github.com/Kudoo39/calculator-app) - A simple calculator project
-* [Weather App](https://github.com/Kudoo39/Weather-app) - A simple weather app
-* [Breweries App](https://github.com/Kudoo39/fs17-week3-React-public) - A dynamic web application for exploring breweries
+- **[AI Shipcheck](https://github.com/sinceaihq/ai-shipcheck)** — An open-source, local-first production-readiness scanner for JavaScript and TypeScript applications.
+- **[Since AI Website](https://github.com/sinceaihq/sinceai)** — The official Since AI website, built with Next.js and TypeScript.
+- **[The Trendy Store](https://github.com/Kudoo39/the-trendy-store)** — A full-stack e-commerce application using React, Node.js, and MongoDB.
+- **[Saigon Sandwich Bakery Website](https://github.com/Kudoo39/restaurant-app)** — A restaurant website developed as part of my bachelor's thesis.
+- **[Serenity Space](https://github.com/Kudoo39/serenity-space)** - This project provides a personalized and calming working space.
+- **[Explore Game](https://github.com/Kudoo39/clone-game-website)** - Fetches and displays games from RAWG API.
 
-Thanks for visiting my profile! Let's code together and build amazing things. 💻🚀
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/khang-nguyen3902)
+- [CV](https://drive.google.com/file/d/1ZYplo_ujHitg2U0k8p09mfHgkwpQL5bB/view?usp=sharing)
+- [Portfolio](https://kudoo39.github.io/react-portfolio)
 
 ![](https://komarev.com/ghpvc/?username=Kudoo39e&color=lightgrey)
